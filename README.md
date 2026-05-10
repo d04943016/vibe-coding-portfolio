@@ -8,7 +8,7 @@ This repository only stores public-safe project descriptions, screenshots, archi
 
 | Project | Domain | What it showcases | Key points |
 |---|---|---|---|
-| [AtomisticStudio](projects/AtomisticStudio/README.md) | Atomistic simulation / computational chemistry | Browser-based ASE research workbench | Structure builder, calculator setup, optimization, MD, electronic/vibration/thermo workflows, SQLite provenance |
+| [AtomisticStudio](projects/AtomisticStudio/README.md) | Atomistic simulation / computational chemistry | Browser-based ASE research workbench | Structure builder, cross-run analysis, batch screening, phase stability, work functions, SQLite provenance |
 | [calOLED](projects/calOLED/README.md) | OLED device characterization | EL + IV data analysis for OLED experiments | EQE, brightness, CCT, PE/CE/LE, calibration snapshots, audit trail, desktop/mobile UI |
 | [claude-review-pipeline](projects/claude-review-pipeline/README.md) | AI coding workflow / review automation | Domain-aware iterative review pipeline | Conversational setup, generated domain expert, parallel reviewers, review-fix loop, E2E testing flow |
 | [ExpSheet](projects/ExpSheet/README.md) | Semiconductor experiment management | Local-first process and wafer experiment notebook | Chambers, process flows, experiments, image comparison, process-value matrix, JSON storage |
