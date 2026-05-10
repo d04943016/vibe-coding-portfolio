@@ -1,0 +1,16 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and local environment files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local runtime or temporary files
+.env
+.env.*
+*.log
+tmp/
+temp/
